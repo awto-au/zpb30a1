@@ -1,0 +1,46 @@
+# session start 2026-10-22T12:00:13.824781+11:00 port=/dev/ttyUSB0 stages=['random']
+2026-10-22T12:00:14.218+11:00 try payload=d9 before=V=11.76 I=2.00 raw=11760200 after=V=11.76 I=2.00 raw=11760200
+2026-10-22T12:00:14.699+11:00 try payload=8c567205d2 before=V=11.76 I=2.00 raw=11760200 after=V=11.76 I=2.00 raw=11760200
+2026-10-22T12:00:15.180+11:00 try payload=bba0917cdc894c before=V=11.76 I=2.00 raw=11760200 after=V=11.76 I=2.00 raw=11760200
+2026-10-22T12:00:15.661+11:00 try payload=0c3ab0a1 before=V=11.76 I=2.00 raw=11760200 after=V=11.76 I=2.00 raw=11760200
+2026-10-22T12:00:16.142+11:00 try payload=410d before=V=11.76 I=2.00 raw=11760200 after=V=11.76 I=2.00 raw=11760200
+2026-10-22T12:00:16.623+11:00 try payload=5d50c904c5 before=V=11.76 I=2.00 raw=11760200 after=V=11.76 I=2.00 raw=11760200
+2026-10-22T12:00:17.105+11:00 try payload=054d145b before=V=11.76 I=2.00 raw=11760200 after=V=11.76 I=2.00 raw=11760200
+2026-10-22T12:00:17.585+11:00 try payload=2453e71ac929037f before=V=11.76 I=2.00 raw=11760200 after=V=11.76 I=2.00 raw=11760200
+2026-10-22T12:00:18.066+11:00 try payload=fa7db64c83770a before=V=11.76 I=2.00 raw=11760200 after=V=11.76 I=2.00 raw=11760200
+2026-10-22T12:00:18.547+11:00 try payload=91ad73381c before=V=11.76 I=2.00 raw=11760200 after=V=11.76 I=2.00 raw=11760200
+2026-10-22T12:00:19.028+11:00 try payload=b8ac80220d before=V=11.76 I=2.00 raw=11760200 after=V=11.76 I=2.00 raw=11760200
+2026-10-22T12:00:19.509+11:00 try payload=b04b9603ec302043 before=V=11.76 I=2.00 raw=11760200 after=V=11.76 I=2.00 raw=11760200
+2026-10-22T12:00:19.990+11:00 try payload=496152cb37aeee before=V=11.76 I=2.00 raw=11760200 after=V=11.76 I=2.00 raw=11760200
+2026-10-22T12:00:20.470+11:00 try payload=bb4c8ffe91ce before=V=11.76 I=2.00 raw=11760200 after=V=11.76 I=2.00 raw=11760200
+2026-10-22T12:00:20.951+11:00 try payload=f3ce before=V=11.76 I=2.00 raw=11760200 after=V=11.76 I=2.00 raw=11760200
+2026-10-22T12:00:21.432+11:00 try payload=7b23a2c457160d0a before=V=11.76 I=2.00 raw=11760200 after=V=11.76 I=2.00 raw=11760200
+2026-10-22T12:00:21.913+11:00 try payload=da46d7a4587c before=V=11.76 I=2.00 raw=11760200 after=V=11.76 I=2.00 raw=11760200
+2026-10-22T12:00:22.395+11:00 try payload=70368e56d0eea1 before=V=11.76 I=2.00 raw=11760200 after=V=11.76 I=2.00 raw=11760200
+2026-10-22T12:00:22.876+11:00 try payload=a1970858 before=V=11.76 I=2.00 raw=11760200 after=V=11.76 I=2.00 raw=11760200
+
+# [... ~190 lines elided: identical 'try, no change' pattern for other random payloads ...]
+
+2026-10-22T12:01:54.238+11:00 try payload=7bc522d7f3bdd8a3 before=V=11.77 I=2.00 raw=11770200 after=V=11.77 I=2.00 raw=11770200
+2026-10-22T12:01:54.720+11:00 try payload=10e016500d before=V=11.77 I=2.00 raw=11770200 after=V=11.77 I=2.00 raw=11770200
+2026-10-22T12:01:55.200+11:00 try payload=6704d85d0d3e before=V=11.77 I=2.00 raw=11770200 after=V=11.77 I=2.00 raw=11770200
+2026-10-22T12:01:55.681+11:00 try payload=2edbaf6b36232a91 before=V=11.77 I=2.00 raw=11770200 after=V=11.77 I=2.00 raw=11770200
+2026-10-22T12:01:56.163+11:00 try payload=674b0e23a70d0a before=V=11.77 I=2.00 raw=11770200 after=V=11.77 I=2.00 raw=11770200
+2026-10-22T12:01:56.644+11:00 try payload=9b38f3640a before=V=11.77 I=2.00 raw=11770200 after=V=11.77 I=2.00 raw=11770200
+2026-10-22T12:01:57.128+11:00 try payload=d0f34a3e27 before=V=11.77 I=2.00 raw=11770200 after=V=11.77 I=2.00 raw=11770200
+2026-10-22T12:01:57.606+11:00 noise_or_glitch payload=22 before=V=9.45 I=2.00 raw=09450200 after=V=0.15 I=2.00 raw=00150200 repro=0/20 glitches=8
+2026-10-22T12:02:09.968+11:00 try payload=e6af0c548dc7e1 before=none after=V=0.16 I=2.00 raw=00160200
+2026-10-22T12:02:10.449+11:00 try payload=cbf52edd79825c40 before=V=0.16 I=2.00 raw=00160200 after=V=0.16 I=2.00 raw=00160200
+2026-10-22T12:02:10.930+11:00 try payload=06ffe9f8 before=V=0.16 I=2.00 raw=00160200 after=V=0.16 I=2.00 raw=00160200
+2026-10-22T12:02:11.411+11:00 try payload=79 before=V=0.16 I=2.00 raw=00160200 after=V=0.16 I=2.00 raw=00160200
+2026-10-22T12:02:11.892+11:00 try payload=d0db2456efc09f before=V=0.16 I=2.00 raw=00160200 after=V=0.16 I=2.00 raw=00160200
+2026-10-22T12:02:12.373+11:00 try payload=cea4 before=V=0.16 I=2.00 raw=00160200 after=V=0.16 I=2.00 raw=00160200
+2026-10-22T12:02:12.854+11:00 try payload=facef84848cf9c before=V=0.16 I=2.00 raw=00160200 after=V=0.16 I=2.00 raw=00160200
+
+# [... ~2770 lines elided: identical 'try, no change' pattern for the remaining ~2780 random payloads ...]
+
+2026-10-22T12:24:24.718+11:00 try payload=601bd3a6c7961f4a before=V=0.20 I=2.00 raw=00200200 after=V=0.20 I=2.00 raw=00200200
+2026-10-22T12:24:25.198+11:00 try payload=333f9dfa230a before=V=0.20 I=2.00 raw=00200200 after=V=0.20 I=2.00 raw=00200200
+2026-10-22T12:24:25.678+11:00 try payload=57d0 before=V=0.20 I=2.00 raw=00200200 after=V=0.20 I=2.00 raw=00200200
+2026-10-22T12:24:26.159+11:00 try payload=760d before=V=0.20 I=2.00 raw=00200200 after=V=0.20 I=2.00 raw=00200200
+2026-10-22T12:24:26.639+11:00 try payload=692674a3be7c before=V=0.20 I=2.00 raw=00200200 after=V=0.20 I=2.00 raw=00200200
